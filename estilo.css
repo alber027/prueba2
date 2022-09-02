@@ -30,7 +30,7 @@ a:active{
 }
 h1{
      text-align:center;
-     font-family:'algerian';
+     font-family:'algerian','Indie Flower';
      color:red;
      font-size:70pt;
      text-shadow:7pt 5pt 5pt black;
@@ -39,12 +39,12 @@ h1{
 h3{
      text-align:center;
      margin-top:-10pt;
-     font-family:'arial black';
+     font-family:'arial black','Bebas Neue';
      font-size:20pt;
 }
 h2{
      text-align:center;
-     font-family:'Brush Script MT';
+     font-family:'Brush Script MT','Pacifico';
      color:red;
      font-size:120pt;
      text-shadow:8px 4px 5px black;
